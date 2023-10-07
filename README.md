@@ -1,3 +1,5 @@
+![Screenshot from 2023-10-06 23-32-28](https://github.com/Hart102/form_validation/assets/105338339/f8e13b52-3e8e-457f-8ba8-5f4d47ee2264)
+![Screenshot from 2023-10-06 23-34-04](https://github.com/Hart102/form_validation/assets/105338339/764d4a33-e525-486a-9ea6-1d3b0de58e05)
 # Client and Server side validation
 
 ## Tools:
