@@ -1,6 +1,7 @@
 # Client and Server side validation
 
-Tools:
+## Tools:
+
 Client Side
 React, tailwindcss, react-hook-form, axios
 
