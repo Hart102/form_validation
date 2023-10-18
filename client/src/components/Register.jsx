@@ -41,7 +41,11 @@ const Register = () => {
 
   return (
     <>
-      <Title title="sign up" />
+      <Title
+        onclick={() => navigation("/login")}
+        title={"Register"}
+        text="Already have an account ? Login"
+      />
 
       {formDate &&
         formDate.map((input) => (

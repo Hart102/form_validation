@@ -37,7 +37,11 @@ const Login = () => {
 
   return (
     <>
-      <Title title="login" />
+      <Title
+        onclick={() => navigation("/")}
+        title={"Login"}
+        text="Dont have an account ? Register"
+      />
 
       {formData &&
         formData.map((input) => (
